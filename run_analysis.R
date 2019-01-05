@@ -3,7 +3,6 @@
 ###################################################################
 library(reshape2)
 
-
 ###################################################################
 ## (1) Merges the training and the test sets to create one data set
 ###################################################################
@@ -35,7 +34,7 @@ colnames(subject_train)[1] <- "IdSubject"
 colnames(ytest)[1] <- "IdActivity"
 colnames(ytrain)[1] <- "IdActivity"
 
-# (c) combin subject & activity data with measurement data
+# (c) combine subject & activity data with measurement data
 test <- cbind(subject_test, ytest, xtest)
 train <- cbind(subject_train, ytrain, xtrain)
 

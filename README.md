@@ -1,10 +1,11 @@
 # Getting_Cleaning_Data_Coursera_Project
 Course Project for Coursera course Getting and Cleaning Data (Week IV)
 
-
-This repository addresses the requirments from the assignment: "Getting and Cleaning Data Coursera course". The purpose of this project, as stated by the Course, is to 'demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis'.
+```
+This repository responds to the assignment: "Getting and Cleaning Data Coursera course". The purpose of this project, as stated by the Course, is to 'demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis'.
 
 The work has been structed in three sections, namely, (a) Data, (b) Code, and (c) Output, as follows:
+```
 
 ## (a) Data
 

@@ -7,12 +7,14 @@ The present codebook presents specific description of the tidy data file (tidy_d
 - IdSubject - Id of the subject that participated in the test
 - Activity - Type of activity measured at the time of the test
 
+```
   > 1 WALKING
   > 2 WALKING_UPSTAIRS
   > 3 WALKING_DOWNSTAIRS
   > 4 SITTING
   > 5 STANDING
   > 6 LAYING
+```
 
 ## Measurements
 

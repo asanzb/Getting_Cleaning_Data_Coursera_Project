@@ -35,25 +35,25 @@ The script run_analysis.R process the source data (a) to produce tidy data (c) t
 
 	>> download and unzip source data
 	>> read data: test, subject and activity
-	> change col names for subject and activity data
-	> combine subject & activity data with measurement data
-	> merge test and train data into one single set
-	> label the columns to match the feature names
+	>> change col names for subject and activity data
+	>> combine subject & activity data with measurement data
+	>> merge test and train data into one single set
+	>> label the columns to match the feature names
 
 2 - Extracts only the measurements on the mean and standard deviation for each measurement
-	> make a data subset including only columns for IdSubject, IdActivity, mean columns, and std columns
+	>> make a data subset including only columns for IdSubject, IdActivity, mean columns, and std columns
 
 3 - Uses descriptive activity names to name the activities in the data set
-	> load activity label data
-	> merge (left join) activity label and measure data by IdActivity
-	> re-arrange column order so that the first three show: IdSubject, IdActivity, Activity
+	>> load activity label data
+	>> merge (left join) activity label and measure data by IdActivity
+	>> re-arrange column order so that the first three show: IdSubject, IdActivity, Activity
 
 4 - Appropriately labels the data set with descriptive variable names.
 
 5 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
-	> group by subject & activity, and then apply the mean to all columns
-	> order by subject and activity and then remove the IdActivity
-	> producing both txt and csv files
+	>> group by subject & activity, and then apply the mean to all columns
+	>> order by subject and activity and then remove the IdActivity
+	>> producing both txt and csv files
 
 ## (c) Output
 

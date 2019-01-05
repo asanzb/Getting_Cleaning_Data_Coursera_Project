@@ -32,8 +32,9 @@ The script run_analysis.R process the source data (a) to produce tidy data (c) t
 0 - Set up the enviroment: loads the necessary R libraries
 
 1 - Merges the training and the test sets to create one data set
-	> download and unzip source data
-	> read data: test, subject and activity
+
+	>> download and unzip source data
+	>> read data: test, subject and activity
 	> change col names for subject and activity data
 	> combine subject & activity data with measurement data
 	> merge test and train data into one single set

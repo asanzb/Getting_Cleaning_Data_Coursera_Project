@@ -28,7 +28,7 @@ These initial set of data form the basis for further data transformation as carr
 
 ## (b) Code
 
-The script run_analysis.R process the source data (a) to produce tidy data (c) through the following steps:
+The script run_analysis.R transform the source data (a) into tidy data (c) through the following steps:
 
 0 - Set up the enviroment: loads the necessary R libraries
 

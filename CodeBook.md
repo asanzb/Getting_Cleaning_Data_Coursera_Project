@@ -4,8 +4,8 @@ The present codebook presents specific description of the tidy data file (tidy_d
 
 ## Identifiers 
 
-IdSubject - Id of the subject that participated in the test
-Activity - Type of activity measured at the time of the test
+- IdSubject - Id of the subject that participated in the test
+- Activity - Type of activity measured at the time of the test
 
   1 WALKING
   2 WALKING_UPSTAIRS
@@ -18,9 +18,9 @@ Activity - Type of activity measured at the time of the test
 
 The measurement variables show the average measurement value for the grouping of subject and activity.
 
-tBodyAccmeanX
-tBodyAccmeanY
-tBodyAccmeanZ
+- tBodyAccmeanX
+- tBodyAccmeanY
+- tBodyAccmeanZ
 tBodyAccstdX
 tBodyAccstdY
 tBodyAccstdZ

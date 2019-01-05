@@ -1,6 +1,6 @@
 # Code Book
  
-The present codebook presents specific description of the tidy data file (tidy_data.txt) contents which includes a total of 81 columns. The first two are identifiers (IdSubject and and Activity) whilst the remaining 79 are actual measures of the average. 
+The present codebook presents specific description of the tidy data file (tidy_data.txt) contents. This file includes 81 columns: the first two are identifiers (IdSubject and and Activity) whilst the remaining 79 are actual measures of the average. 
 
 ## Identifiers 
 
